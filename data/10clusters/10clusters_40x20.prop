@@ -1,0 +1,12 @@
+outputDirectory=.\\maps_40x20
+namePrefix=10clusters
+vectorFileName=10clusters.vec
+templateFileName=10clusters.tv
+workingDirectory = .\\data\\10clusters
+randomSeed=10
+isNormalized=true
+
+xSize=40
+ySize=20
+learnRate=0.7
+numCycles=1000

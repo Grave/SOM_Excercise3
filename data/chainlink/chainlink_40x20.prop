@@ -1,0 +1,13 @@
+outputDirectory=.\\maps_40x20
+namePrefix=chainlink
+vectorFileName=chainlink.vec
+templateFileName=chainlink.tv
+workingDirectory = .\\data\\chainlink
+randomSeed=10
+isNormalized=true
+
+xSize=40
+ySize=20
+learnRate=0.7
+numCycles=1000
+sigma=7
